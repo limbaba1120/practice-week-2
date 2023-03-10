@@ -8,7 +8,7 @@ int plus(int x, int y) {
 	return x + y;
 }
 
-int main() {
+int main(){
 	int x, y, op;
 	
 	printf("Enter two numbers(x,y): ");
